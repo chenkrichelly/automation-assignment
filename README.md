@@ -30,17 +30,22 @@ This project automates a form submission process using Puppeteer. It:
 - Node.js
 - Puppeteer
 
-## How to Run
+## **How to Run**
 
-Install dependencies:
+### **Install Dependencies**
+To install the necessary dependencies, run the following command in your terminal:
+```bash
 npm install
+```
 
-Run the script:
+### **Run the script:**
+```bash
 node formTest.js
-
+```
 or for the Jest version:
-
+```bash
 npx jest
+```
 
 Screenshots will be saved in the project directory during the run.
 
